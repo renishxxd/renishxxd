@@ -73,7 +73,7 @@
 ### ✍ Blogs & Links
 - 📖 [LeetCode Profile](https://leetcode.com/u/MCCQrIyNUX/)  
 - 💻 [GitHub Projects](https://github.com/renishxxd)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/renish-sundar-722653372/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/renish-shanmugasundaram-01a304394/)  
 
 ---
 
