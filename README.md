@@ -8,9 +8,9 @@
 * 👂 My name is **Renish Sundar**  
 * 😎 Pronouns: He/Him  
 * 🔭 I’m currently working on **AI & Full Stack Projects**  
-* 🌱 I’m currently learning **MERN, Java, AIML, DevOps**  
+* 🌱 I’m currently learning **MERN, Java, AIML, C++, Python**  
 * 🤝 I’m looking to collaborate on **Open Source & Startup Projects**  
-* 💬 Ask me about **Web Development | Machine Learning | Cloud**  
+* 💬 Ask me about **Web Development | Machine Learning | Software Development**  
 * 📫 How to reach me: **renishsundar123@gmail.com**  
 
 ---
@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
 </p>
 
@@ -45,28 +44,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" />
 </p>
 
-## 🔧 DevOps & Tools
+## 🔧 Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
 </p>
 
-## 🎨 UI/UX Design
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-</p>
-</div>
 
 ---
 
 ### 📌 Featured Projects
 - **[SafePathAI (2025)]()** – AI-based safe route suggestion app  
 - **[Ecommerce Clothing Website (2024)]()** – MERN consultancy project  
-- **[Stock Market Prediction (2024)]()** – LSTM-based ML model  
-- **[Task Manager App (2024)]()** – Flutter cross-platform mobile app  
-- **[Dockerized Legacy Apps (2024)]()** – Python + Docker migration  
+- **[Stock Market Prediction (2024)]()** – LSTM-multi-based DL model
+- **[JDBC application for stationary shop]()** - Web application build with java
 
 ---
 
