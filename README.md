@@ -51,10 +51,10 @@
 ---
 
 ### 📌 Featured Projects
-- **[SafePathAI (2025)]()** – AI-based safe route suggestion app  
 - **[Ecommerce Clothing Website (2024)]()** – MERN consultancy project  
 - **[Stock Market Prediction (2024)]()** – LSTM-multi-based DL model
 - **[JDBC application for stationary shop]()** - Web application build with java
+- **[SafePathAI (2025)]()** – AI-based safe route suggestion app  
 
 ---
 
